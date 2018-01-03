@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="termsAndConditions.route.vue" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
